@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0A58D816F3170ECCDC1A44281F8B6F0799BEFD10",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E112B2EC8ED0F7FDC9217E4B0910577AA3079341" : 9223372036854775807,
+    "0A58D816F3170ECCDC1A44281F8B6F0799BEFD10" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D6D3AC6F-6A87-4473-85CE-C66B0429BD87",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E112B2EC8ED0F7FDC9217E4B0910577AA3079341" : "JouleBug\/",
+    "0A58D816F3170ECCDC1A44281F8B6F0799BEFD10" : "CustomTableSpec\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CustomTableSpec",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/CustomTableSpec.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Joulebug\/CustomTableSpec.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A58D816F3170ECCDC1A44281F8B6F0799BEFD10"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Joulebug\/JouleBug.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E112B2EC8ED0F7FDC9217E4B0910577AA3079341"
+    }
+  ]
+}
