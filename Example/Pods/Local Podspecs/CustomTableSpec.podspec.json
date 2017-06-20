@@ -1,0 +1,22 @@
+{
+  "name": "CustomTableSpec",
+  "version": "0.1.0",
+  "summary": "A short description of CustomTableSpec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cwhite911/CustomTableSpec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cwhite911": "smortopahri@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/cwhite911/CustomTableSpec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomTableSpec/Classes/**/*"
+}

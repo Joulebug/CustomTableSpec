@@ -1,0 +1,6 @@
+framework module CustomTableSpec {
+  umbrella header "CustomTableSpec-umbrella.h"
+
+  export *
+  module * { export * }
+}
